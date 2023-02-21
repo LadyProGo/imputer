@@ -1,8 +1,8 @@
 # this is a README file that explains the imputer.ipynb file structure
 
-# there are 2 Imputer classes: 
-# the 1st one allows to replace NULL values by the average
-# the 2d one allows to replace NULL values by the median
+There are two classes called Imputer, each serving the purpose of replacing missing values in a list: 
+    -the first one is designed to replace such values by the mean;
+    -the second one replaces them by the median.
 
 # the exo was made for -->
 
